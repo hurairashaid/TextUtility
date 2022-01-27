@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hurairashaid.github.io/csb-x4jk9/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://hurairashaid.github.io/csb-x4jk9/static/js/main.796a5f81.chunk.js",
+    "main.js.map": "https://hurairashaid.github.io/csb-x4jk9/static/js/main.796a5f81.chunk.js.map",
+    "runtime-main.js": "https://hurairashaid.github.io/csb-x4jk9/static/js/runtime-main.dc47db40.js",
+    "runtime-main.js.map": "https://hurairashaid.github.io/csb-x4jk9/static/js/runtime-main.dc47db40.js.map",
+    "static/js/2.c470bf27.chunk.js": "https://hurairashaid.github.io/csb-x4jk9/static/js/2.c470bf27.chunk.js",
+    "static/js/2.c470bf27.chunk.js.map": "https://hurairashaid.github.io/csb-x4jk9/static/js/2.c470bf27.chunk.js.map",
+    "index.html": "https://hurairashaid.github.io/csb-x4jk9/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://hurairashaid.github.io/csb-x4jk9/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c470bf27.chunk.js.LICENSE.txt": "https://hurairashaid.github.io/csb-x4jk9/static/js/2.c470bf27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc47db40.js",
+    "static/js/2.c470bf27.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.796a5f81.chunk.js"
+  ]
+}
