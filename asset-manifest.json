@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://hurairashaid.github.io/csb-x4jk9/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://hurairashaid.github.io/csb-x4jk9/static/js/main.af0278f7.chunk.js",
-    "main.js.map": "https://hurairashaid.github.io/csb-x4jk9/static/js/main.af0278f7.chunk.js.map",
+    "main.js": "https://hurairashaid.github.io/csb-x4jk9/static/js/main.3df7abfa.chunk.js",
+    "main.js.map": "https://hurairashaid.github.io/csb-x4jk9/static/js/main.3df7abfa.chunk.js.map",
     "runtime-main.js": "https://hurairashaid.github.io/csb-x4jk9/static/js/runtime-main.dced4d76.js",
     "runtime-main.js.map": "https://hurairashaid.github.io/csb-x4jk9/static/js/runtime-main.dced4d76.js.map",
-    "static/js/2.91cd1085.chunk.js": "https://hurairashaid.github.io/csb-x4jk9/static/js/2.91cd1085.chunk.js",
-    "static/js/2.91cd1085.chunk.js.map": "https://hurairashaid.github.io/csb-x4jk9/static/js/2.91cd1085.chunk.js.map",
+    "static/js/2.b92be42e.chunk.js": "https://hurairashaid.github.io/csb-x4jk9/static/js/2.b92be42e.chunk.js",
+    "static/js/2.b92be42e.chunk.js.map": "https://hurairashaid.github.io/csb-x4jk9/static/js/2.b92be42e.chunk.js.map",
     "index.html": "https://hurairashaid.github.io/csb-x4jk9/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://hurairashaid.github.io/csb-x4jk9/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.91cd1085.chunk.js.LICENSE.txt": "https://hurairashaid.github.io/csb-x4jk9/static/js/2.91cd1085.chunk.js.LICENSE.txt"
+    "static/js/2.b92be42e.chunk.js.LICENSE.txt": "https://hurairashaid.github.io/csb-x4jk9/static/js/2.b92be42e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dced4d76.js",
-    "static/js/2.91cd1085.chunk.js",
+    "static/js/2.b92be42e.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.af0278f7.chunk.js"
+    "static/js/main.3df7abfa.chunk.js"
   ]
 }
